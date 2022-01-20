@@ -23,7 +23,10 @@ export const AboutSection = styled.div`
   height: 82%;
   display: flex;
   flex-wrap: wrap;
-  margin: 20px 20%;
+  margin: 20px 250px;
+  @media screen and (max-width: 1240px) {
+    margin: 50px 20px;
+  }
   h3 {
     font-size: 30px;
     margin: 3px auto 36px auto;

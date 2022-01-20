@@ -15,7 +15,9 @@ export const HeroWrap = styled.div`
   margin-left: 250px;
   height: 450px;
   z-index: 2;
-  width: 100vw;
+  @media screen and (max-width: 1240px) {
+    width: inherit;
+  }
   @media screen and (max-width: 1100px) {
     width: 90%;
     margin-top: 230px;
@@ -68,10 +70,12 @@ export const HeroWrap = styled.div`
     border-top: 1px solid grey;
     display: flex;
     flex-direction: row;
-    width: 40%;
     font-family: var(--text_font);
     font-size: 12px;
     color: white;
+    @media screen and (max-width: 1240px) {
+      width: inherit;
+    }
     .contact_section {
       &:first-child {
         font-weight: 800;

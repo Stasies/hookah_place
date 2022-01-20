@@ -65,7 +65,8 @@ export const AdvSectionRight = styled.div`
     position: absolute;
     margin-top: 50px;
     width: 87%;
-    height: 450px;
+    min-height: 450px;
+    height: max-content;
     transform: translate(50px, -150px);
     .top {
       margin: 60px;

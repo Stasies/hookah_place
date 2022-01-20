@@ -11,14 +11,27 @@ export const HeroContainer = styled.div`
 `;
 export const HeroWrap = styled.div`
   position: absolute;
-  margin: 220px 250px;
+  margin-top: 220px;
+  margin-left: 250px;
   height: 450px;
   z-index: 2;
-  width: 100%;
+  width: 100vw;
   @media screen and (max-width: 1100px) {
     width: 90%;
-    margin: 230px 10px;
+    margin-top: 230px;
+    margin-left: 10px;
+    display: flex;
+    flex-direction: column;
     .main_title_box {
+      width: fit-content;
+      height: fit-content;
+      h1 {
+        height: fit-content;
+        margin-bottom: 50px;
+      }
+    }
+    .contact_info {
+      /* position: absolute; */
       width: 100%;
     }
   }
@@ -33,7 +46,7 @@ export const HeroWrap = styled.div`
     font-family: var(--title_font);
     font-size: 50px;
     color: white;
-    width: 70%;
+    width: fit-content;
     line-height: 4.5rem;
     margin-top: 70px;
     margin-bottom: 155px;

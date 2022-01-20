@@ -22,7 +22,7 @@ export const AboutSection = styled.div`
   height: 82%;
   display: flex;
   flex-wrap: wrap;
-  margin: 20px 250px;
+  margin: 20px 20%;
   h3 {
     font-size: 30px;
     margin: 3px auto 36px auto;
@@ -67,6 +67,7 @@ export const AboutSection = styled.div`
     @media screen and (max-width: 378px) {
       font-size: 14px;
       width: 100%;
+      height: max-content;
     }
   }
   text-align: start;
@@ -138,7 +139,7 @@ export const AboutSection = styled.div`
       order: 5;
     }
   }
-  @media screen and (max-width: 378px) {
+  @media screen and (max-width: 480px) {
     .section1 {
       min-height: 300px;
       height: fit-content;

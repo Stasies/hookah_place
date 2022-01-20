@@ -93,7 +93,12 @@ export const ContactRight = styled.div`
       flex-direction: column;
     }
     .lighter {
-      transform: translate(250px, -75px);
+      transform: translate(220px, -75px);
+    }
+  }
+  @media screen and (max-width: 340px) {
+    .lighter {
+      display: none;
     }
   }
 `;

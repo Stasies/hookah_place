@@ -102,4 +102,12 @@ export const AdvSectionRight = styled.div`
       font-size: 14px;
     }
   }
+  @media screen and (max-width: 350px) {
+    .top {
+      width: 90%;
+      img {
+        display: none;
+      }
+    }
+  }
 `;

@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hookah_place/static/css/main.938387aa.css",
-    "main.js": "/hookah_place/static/js/main.ee41931e.js",
+    "main.css": "/hookah_place/static/css/main.f690ba50.css",
+    "main.js": "/hookah_place/static/js/main.fb6cf5bf.js",
     "static/media/img3.png": "/hookah_place/static/media/img3.e5c0ebe11682d072d3e1.png",
     "static/media/Ibg.png": "/hookah_place/static/media/Ibg.f8cede6a00827fe229b0.png",
     "static/media/bgChairs.png": "/hookah_place/static/media/bgChairs.afab163aa009ed22c68c.png",
@@ -19,11 +19,11 @@
     "static/media/ashtray.png": "/hookah_place/static/media/ashtray.f9e5e76c07d4ffc06684.png",
     "static/media/logo.png": "/hookah_place/static/media/logo.da4cb654dd2c908cafd3.png",
     "index.html": "/hookah_place/index.html",
-    "main.938387aa.css.map": "/hookah_place/static/css/main.938387aa.css.map",
-    "main.ee41931e.js.map": "/hookah_place/static/js/main.ee41931e.js.map"
+    "main.f690ba50.css.map": "/hookah_place/static/css/main.f690ba50.css.map",
+    "main.fb6cf5bf.js.map": "/hookah_place/static/js/main.fb6cf5bf.js.map"
   },
   "entrypoints": [
-    "static/css/main.938387aa.css",
-    "static/js/main.ee41931e.js"
+    "static/css/main.f690ba50.css",
+    "static/js/main.fb6cf5bf.js"
   ]
 }

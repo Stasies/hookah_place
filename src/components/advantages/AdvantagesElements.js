@@ -5,6 +5,11 @@ export const AdvContainer = styled.div`
   background: var(--background_light);
   min-height: 700px;
   color: white;
+  /* @media screen and (max-width: 768px) {
+    width: 100vw;
+    height: fit-content;
+    margin: 50px 0;
+  } */
 `;
 export const AdvSection = styled.div`
   display: flex;

@@ -8,8 +8,9 @@ export const AboutContainer = styled.div`
   min-height: 626px;
   height: fit-content;
   @media screen and (max-width: 768px) {
-    height: 840px;
     width: 100vw;
+    height: fit-content;
+    margin: 50px 0;
   }
   @media screen and (max-width: 380px) {
     min-height: 1230px;

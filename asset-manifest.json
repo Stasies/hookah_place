@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/hookah_place/static/css/main.f690ba50.css",
-    "main.js": "/hookah_place/static/js/main.fb6cf5bf.js",
+    "main.js": "/hookah_place/static/js/main.f3effd4d.js",
     "static/media/img3.png": "/hookah_place/static/media/img3.e5c0ebe11682d072d3e1.png",
     "static/media/Ibg.png": "/hookah_place/static/media/Ibg.f8cede6a00827fe229b0.png",
     "static/media/bgChairs.png": "/hookah_place/static/media/bgChairs.afab163aa009ed22c68c.png",
@@ -20,10 +20,10 @@
     "static/media/logo.png": "/hookah_place/static/media/logo.da4cb654dd2c908cafd3.png",
     "index.html": "/hookah_place/index.html",
     "main.f690ba50.css.map": "/hookah_place/static/css/main.f690ba50.css.map",
-    "main.fb6cf5bf.js.map": "/hookah_place/static/js/main.fb6cf5bf.js.map"
+    "main.f3effd4d.js.map": "/hookah_place/static/js/main.f3effd4d.js.map"
   },
   "entrypoints": [
     "static/css/main.f690ba50.css",
-    "static/js/main.fb6cf5bf.js"
+    "static/js/main.f3effd4d.js"
   ]
 }

@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/hookah_place/static/css/main.938387aa.css",
+    "main.js": "/hookah_place/static/js/main.ee41931e.js",
+    "static/media/img3.png": "/hookah_place/static/media/img3.e5c0ebe11682d072d3e1.png",
+    "static/media/Ibg.png": "/hookah_place/static/media/Ibg.f8cede6a00827fe229b0.png",
+    "static/media/bgChairs.png": "/hookah_place/static/media/bgChairs.afab163aa009ed22c68c.png",
+    "static/media/bg.png": "/hookah_place/static/media/bg.c66917bdbc8db68c3347.png",
+    "static/media/1.png": "/hookah_place/static/media/1.5553603b6ac8be07434b.png",
+    "static/media/4.png": "/hookah_place/static/media/4.1ffdfb5f30d22f08cb82.png",
+    "static/media/smoke.png": "/hookah_place/static/media/smoke.671a9e227da830b3de44.png",
+    "static/media/2.png": "/hookah_place/static/media/2.e0be607a928d09b0237b.png",
+    "static/media/map.png": "/hookah_place/static/media/map.6c2458e3049431a72e02.png",
+    "static/media/3.png": "/hookah_place/static/media/3.170b43f7df4e67522269.png",
+    "static/media/news2.png": "/hookah_place/static/media/news2.dd4e2a4806ee29488d33.png",
+    "static/media/news1.png": "/hookah_place/static/media/news1.60e828507b485e479339.png",
+    "static/media/news3.png": "/hookah_place/static/media/news3.9286d74b3c5fd82c1bc0.png",
+    "static/media/cigars.png": "/hookah_place/static/media/cigars.39ebbf6b89bf43bab20e.png",
+    "static/media/ashtray.png": "/hookah_place/static/media/ashtray.f9e5e76c07d4ffc06684.png",
+    "static/media/logo.png": "/hookah_place/static/media/logo.da4cb654dd2c908cafd3.png",
+    "index.html": "/hookah_place/index.html",
+    "main.938387aa.css.map": "/hookah_place/static/css/main.938387aa.css.map",
+    "main.ee41931e.js.map": "/hookah_place/static/js/main.ee41931e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.938387aa.css",
+    "static/js/main.ee41931e.js"
+  ]
+}
